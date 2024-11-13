@@ -1,5 +1,6 @@
 .header {
     border-bottom: 1px solid #e7e9fc;
+    box-shadow:0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .header
@@ -74,6 +75,16 @@ p{
 .header-contacts:focus{
 color: #404bbf
 }
+.heder-items::after {
+    content: '' ;
+    width: 100% ;
+    position: absolute; 
+    left: 0;
+    bottom: -1px;
+    height: 4px;
+    background-color: #404bbf;
+    border-radius: 2px;
+}
 .address{
     font-style: normal;
     margin-left: auto;
@@ -88,6 +99,8 @@ color: #404bbf
         text-transform: uppercase;
         color: #4d5ae5;
         margin-right: 76px;
+        position: relative;
+        color: #404bbf; 
 }
 .dark{
     color: #2e2f42;
