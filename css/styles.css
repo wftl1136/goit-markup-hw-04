@@ -227,6 +227,56 @@ color: #f4f4fd;
     width: calc((100% - 72px) / 4);
     
 }
+
+.privilege-icon1 {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+    background-image: url(../images/icon_1.jpg);
+}
+
+.privilege-icon2 {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+    background-image: url(../images/icone_2.png);
+}
+
+.privilege-icon3 {
+
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+    background-image: url(../images/icon_3.png);
+}
+
+.privilege-icon4 {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px;
+    background-image: url(../images/icon_4.svg);
+}
+
 .privilege_header {
     font-weight: 500;
     font-size: 20px;
