@@ -416,6 +416,27 @@ body {
     fill: var(--icon-color, #f4f4fd);
   }
 
+  .socials-icon1 {
+    background-image: url(../images/icons/instagram-2.svg);
+    fill: var(--icon-color, #f4f4fd);
+  }
+
+  .socials-icon2 {
+    background-image: url(../images/icons/twitter\ 1.svg);
+    fill: var(--icon-color, #f4f4fd);
+  }
+
+  .socials-icon3 {
+    background-image: url(../images/icons/facebook-1.svg);
+    fill: var(--icon-color, #f4f4fd);
+  }
+
+  .socials-icon4 {
+    background-image: url(../images/icons/linkedin\ 1.svg);
+    fill: var(--icon-color, #f4f4fd);
+  }
+
+
 .portolio-section {
     padding-top: 120px; 
     padding-bottom: 120px;
