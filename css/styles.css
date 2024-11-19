@@ -247,7 +247,7 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/icon_1.svg);
-    fill: #F4F4FD;
+    fill: var(--icon-color, #f4f4fd);
 }
 
 .privilege-icon2 {
@@ -260,7 +260,7 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/Icon_2.svg);
-    fill: #F4F4FD;
+    fill: var(--icon-color, #f4f4fd);
 }
 
 .privilege-icon3 {
@@ -274,7 +274,7 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/icone_3.svg);
-    fill: #F4F4FD;
+    fill: var(--icon-color, #f4f4fd);
 }
 
 .privilege-icon4 {
@@ -287,7 +287,7 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/icon_4.svg);
-    fill: #F4F4FD;
+    fill: var(--icon-color, #f4f4fd);
 }
 
 .privilege_header {
@@ -571,22 +571,22 @@ body {
 
   .footer-icon1 {
     background-image: url(../images/icons/instagram-2.svg);
-    fill:#f4f4fd;
+    fill: var(--icon-color, #f4f4fd);
   }
 
   .footer-icon2 {
     background-image: url(../images/icons/twitter\ 1.svg);
-    fill:#f4f4fd;
+    fill: var(--icon-color, #f4f4fd);
   }
 
   .footer-icon3 {
     background-image: url(../images/icons/facebook-1.svg);
-    fill:#f4f4fd;
+    fill: var(--icon-color, #f4f4fd);
   }
 
   .footer-icon4 {
     background-image: url(../images/icons/linkedin\ 1.svg);
-    fill:#f4f4fd;
+    fill: var(--icon-color, #f4f4fd);
   }
   
   
