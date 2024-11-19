@@ -564,3 +564,25 @@ body {
   .social_media_icon {
     fill: var(--icon-color, #f4f4fd);
   }
+
+  .footer-icon1 {
+    background-image: url(../images/icons/instagram-2.svg);
+    fill:#f4f4fd;
+  }
+
+  .footer-icon2 {
+    background-image: url(../images/icons/twitter\ 1.svg);
+    fill:#f4f4fd;
+  }
+
+  .footer-icon3 {
+    background-image: url(../images/icons/facebook-1.svg);
+    fill:#f4f4fd;
+  }
+
+  .footer-icon4 {
+    background-image: url(../images/icons/linkedin\ 1.svg);
+    fill:#f4f4fd;
+  }
+  
+  
