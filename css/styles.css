@@ -247,7 +247,6 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/icon_1.svg);
-    fill: var(--icon-color, #f4f4fd);
 }
 
 .privilege-icon2 {
@@ -260,9 +259,7 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/Icon_2.svg);
-    fill: var(--icon-color, #f4f4fd);
 }
-
 .privilege-icon3 {
 
     display: flex;
@@ -274,7 +271,6 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/icone_3.svg);
-    fill: var(--icon-color, #f4f4fd);
 }
 
 .privilege-icon4 {
@@ -287,7 +283,6 @@ color: #f4f4fd;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
     background-image: url(../images/icon_4.svg);
-    fill: var(--icon-color, #f4f4fd);
 }
 
 .privilege_header {
