@@ -556,7 +556,7 @@ body {
     align-items: baseline;
   }
 
-  .social-medi-text {
+  .footer-social-text {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -600,17 +600,17 @@ body {
     fill: var(--icon-color, #f4f4fd);
   }
 
-  .footer-icon2 {
+  .footer-icon-two {
     background-image: url(../images/icons/twitter\ 1.svg);
     fill: var(--icon-color, #f4f4fd);
   }
 
-  .footer-icon3 {
+  .footer-icon-three {
     background-image: url(../images/icons/facebook-1.svg);
     fill: var(--icon-color, #f4f4fd);
   }
 
-  .footer-icon4 {
+  .footer-icon-for {
     background-image: url(../images/icons/linkedin\ 1.svg);
     fill: var(--icon-color, #f4f4fd);
   }
