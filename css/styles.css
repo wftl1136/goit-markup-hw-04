@@ -517,6 +517,16 @@ body {
     padding: 100px 0;
 }
 
+.container-footer {
+    display: flex;
+    align-items: baseline;
+    
+}
+
+.footer-heder {
+    margin-right: 120px
+}
+
 .footer_logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -546,7 +556,7 @@ body {
     align-items: baseline;
   }
 
-  .social_media_text {
+  .social-medi-text {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
