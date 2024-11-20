@@ -9,6 +9,11 @@
     align-items: center;
  }
 
+ .footer .container {
+    display: flex;
+    align-items: baseline
+ }
+
 .container {
     width: 1158px;
     margin: 0 auto;
@@ -498,7 +503,7 @@ body {
     color: #434455;
 }
 
-.footer_section {
+.footer{
     background-color: #2e2f42;
     line-height: 1.5;
     padding: 100px 0;
