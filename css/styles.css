@@ -578,28 +578,12 @@ body {
     background-color: #31d0aa;
   }
 
-  .social_media_icon {
-    fill: var(--icon-color, #f4f4fd);
-  }
+  
 
-  .footer-icon-one {
+  .footer-icon {
     background-image: url(../images/icons/instagram-2.svg);
     fill: var(--icon-color, #f4f4fd);
-  }
-
-  .footer-icon-two {
-    background-image: url(../images/icons/twitter\ 1.svg);
-    fill: var(--icon-color, #f4f4fd);
-  }
-
-  .footer-icon-three {
-    background-image: url(../images/icons/facebook-1.svg);
-    fill: var(--icon-color, #f4f4fd);
-  }
-
-  .footer-icon-for {
-    background-image: url(../images/icons/linkedin\ 1.svg);
-    fill: var(--icon-color, #f4f4fd);
+    
   }
   
   
