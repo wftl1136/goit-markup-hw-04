@@ -239,7 +239,7 @@ color: #f4f4fd;
     
 }
 
-.privilege-icon-one {
+.privilege-icon {
     display: flex;
     align-items: center;
     justify-content: center; 
@@ -248,7 +248,22 @@ color: #f4f4fd;
     border-radius: 4px;
     border: 1px solid #8e8f99;
     margin-bottom: 8px;
-    background-image: url(../images/icon_1.svg);
+}
+
+.icon-one {
+    background-image: url(../images/icons/antenna\ 1.svg);
+}
+
+.icon-two {
+    background-image: url(../images/icons/clock\ 1.svg);
+}
+
+.icon-three {
+background-image: url(../images/icons/diagram\ 1.svg);
+}
+
+.icon-for {
+background-image: url(../images/icons/astronaut\ 1.svg);
 }
 
 .privilege-icon-two {
@@ -434,6 +449,10 @@ body {
     fill: var(--icon-color, #f4f4fd);
   }
 
+  .socials-icon {
+    fill: var(--icon-color, #f4f4fd);
+    background-image: url(../images/icons/icons.svg);
+  }
 
 .portolio-section {
     padding-top: 120px; 
