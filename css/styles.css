@@ -266,42 +266,7 @@ background-image: url(../images/icons/diagram\ 1.svg);
 background-image: url(../images/icons/astronaut\ 1.svg);
 }
 
-.privilege-icon-two {
-    display: flex;
-    align-items: center;
-    justify-content: center; 
-    height: 112px;
-    background-color: #f4f4fd;
-    border-radius: 4px;
-    border: 1px solid #8e8f99;
-    margin-bottom: 8px;
-    background-image: url(../images/Icon_2.svg);
-}
-.privilege-icon-tree {
 
-    display: flex;
-    align-items: center;
-    justify-content: center; 
-    height: 112px;
-    background-color: #f4f4fd;
-    border-radius: 4px;
-    border: 1px solid #8e8f99;
-    margin-bottom: 8px;
-    background-image: url(../images/icone_3.svg);
-}
-
-.privilege-icon-for {
-    display: flex;
-    align-items: center;
-    justify-content: center; 
-    height: 112px;
-    background-color: #f4f4fd;
-    border-radius: 4px;
-    border: 1px solid #8e8f99;
-    margin-bottom: 8px;
-    background-image: url(../images/icon_4.svg);
-    
-}
 
 .privilege_header {
     font-weight: 500;
