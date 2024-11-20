@@ -561,7 +561,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--white-color, #FFFFFF);
+    color:#FFFFFF;
     margin-bottom: 16px;
   }
 
@@ -595,7 +595,7 @@ body {
     fill: var(--icon-color, #f4f4fd);
   }
 
-  .footer-icon1 {
+  .footer-icon-one {
     background-image: url(../images/icons/instagram-2.svg);
     fill: var(--icon-color, #f4f4fd);
   }
